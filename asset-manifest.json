@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contactme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/contactme/static/js/main.07ae0937.chunk.js",
+    "main.js.map": "/contactme/static/js/main.07ae0937.chunk.js.map",
+    "runtime-main.js": "/contactme/static/js/runtime-main.231746d5.js",
+    "runtime-main.js.map": "/contactme/static/js/runtime-main.231746d5.js.map",
+    "static/js/2.42ebdd7e.chunk.js": "/contactme/static/js/2.42ebdd7e.chunk.js",
+    "static/js/2.42ebdd7e.chunk.js.map": "/contactme/static/js/2.42ebdd7e.chunk.js.map",
+    "index.html": "/contactme/index.html",
+    "precache-manifest.4afd90a2ab25b7721d3e9c1c0b8d75f8.js": "/contactme/precache-manifest.4afd90a2ab25b7721d3e9c1c0b8d75f8.js",
+    "service-worker.js": "/contactme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/contactme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.42ebdd7e.chunk.js.LICENSE.txt": "/contactme/static/js/2.42ebdd7e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/contactme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.231746d5.js",
+    "static/js/2.42ebdd7e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.07ae0937.chunk.js"
+  ]
+}
